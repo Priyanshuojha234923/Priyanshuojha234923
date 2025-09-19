@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/pandit priyanshu ojha" target="blank"><img src="https://img.shields.io/twitter/follow/pandit priyanshu ojha?logo=twitter&style=for-the-badge" alt="pandit priyanshu ojha" /></a> </p>
 
-- 🔭 I’m currently working on [Tour And Travels](https://github.com/Priyanshuojha234923/tourTravels.git)
+- 🔭 I’m currently working on [College Pro](https://www.collegepro.in/)
 
-- 🌱 I’m currently learning **Angular-12**
+- 🌱 I’m currently learning **Angular-19**
 
-- 👯 I’m looking to collaborate on **Arcane Programming Infotech Lucknow**
+- 👯 I’m looking to collaborate on **Webdigitronix Softlabs Pvt. Ltd. Lucknow**
 
-- 👨‍💻 All of my projects are available at [Priyanshuprofile.000webhostapp.com](Priyanshuprofile.000webhostapp.com)
 
-- 📫 How to reach me **Priyanshu7286@gmail.com**
+- 📫 How to reach me **Priyanshuojha7286@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
